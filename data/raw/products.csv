@@ -1,0 +1,801 @@
+product_id,product_name,category,subcategory,price_before_rebrand,price_after_rebrand,collection
+SKU-0001,"Veste en lin ""Riviera""",vestes,lin,161.9,175.9,printemps-été
+SKU-0002,"Veste en laine ""Riviera""",vestes,laine,89.9,99.9,printemps-été
+SKU-0003,"Veste en coton ""Riviera""",vestes,coton,105.9,119.9,permanent
+SKU-0004,"Veste en laine ""Montmartre""",vestes,laine,126.9,141.9,automne-hiver
+SKU-0005,"Veste en coton ""Provence""",vestes,coton,157.9,173.9,printemps-été
+SKU-0006,"Veste en cuir ""Montmartre""",vestes,cuir,91.9,101.9,automne-hiver
+SKU-0007,"Veste en laine ""Marais""",vestes,laine,109.9,116.9,automne-hiver
+SKU-0008,"Veste en synthétique ""Riviera""",vestes,synthétique,89.9,98.9,permanent
+SKU-0009,"Veste en laine ""Marais""",vestes,laine,101.9,108.9,permanent
+SKU-0010,"Veste en cuir ""Montmartre""",vestes,cuir,188.9,219.9,printemps-été
+SKU-0011,"Veste en cuir ""Opéra""",vestes,cuir,130.9,152.9,printemps-été
+SKU-0012,"Veste en cuir ""Marais""",vestes,cuir,103.9,113.9,permanent
+SKU-0013,"Veste en laine ""Riviera""",vestes,laine,150.9,169.9,printemps-été
+SKU-0014,"Veste en synthétique ""Côte d'Azur""",vestes,synthétique,122.9,145.9,permanent
+SKU-0015,"Veste en cuir ""Montmartre""",vestes,cuir,173.9,200.9,printemps-été
+SKU-0016,"Veste en cuir ""Provence""",vestes,cuir,124.9,132.9,permanent
+SKU-0017,"Veste en coton ""Marais""",vestes,coton,152.9,168.9,permanent
+SKU-0018,"Veste en coton ""Vendôme""",vestes,coton,109.9,119.9,permanent
+SKU-0019,"Veste en laine ""Bastille""",vestes,laine,127.9,144.9,automne-hiver
+SKU-0020,"Veste en coton ""Montmartre""",vestes,coton,136.9,145.9,printemps-été
+SKU-0021,"Veste en coton ""Riviera""",vestes,coton,149.9,173.9,automne-hiver
+SKU-0022,"Veste en synthétique ""Riviera""",vestes,synthétique,122.9,145.9,permanent
+SKU-0023,"Veste en laine ""Bastille""",vestes,laine,175.9,185.9,permanent
+SKU-0024,"Veste en laine ""Riviera""",vestes,laine,162.9,187.9,automne-hiver
+SKU-0025,"Veste en cuir ""Riviera""",vestes,cuir,128.9,143.9,permanent
+SKU-0026,"Veste en laine ""Bastille""",vestes,laine,164.9,184.9,printemps-été
+SKU-0027,"Veste en laine ""Bastille""",vestes,laine,147.9,158.9,printemps-été
+SKU-0028,"Veste en laine ""Provence""",vestes,laine,116.9,123.9,automne-hiver
+SKU-0029,"Veste en coton ""Bastille""",vestes,coton,86.9,101.9,printemps-été
+SKU-0030,"Veste en synthétique ""Riviera""",vestes,synthétique,170.9,201.9,permanent
+SKU-0031,"Veste en coton ""Côte d'Azur""",vestes,coton,152.9,179.9,printemps-été
+SKU-0032,"Veste en laine ""Bastille""",vestes,laine,176.9,195.9,printemps-été
+SKU-0033,"Veste en cuir ""Montmartre""",vestes,cuir,124.9,142.9,automne-hiver
+SKU-0034,"Veste en laine ""Vendôme""",vestes,laine,130.9,142.9,printemps-été
+SKU-0035,"Veste en lin ""Marais""",vestes,lin,145.9,158.9,printemps-été
+SKU-0036,"Veste en lin ""Provence""",vestes,lin,158.9,168.9,printemps-été
+SKU-0037,"Veste en cuir ""Provence""",vestes,cuir,88.9,96.9,permanent
+SKU-0038,"Veste en coton ""Vendôme""",vestes,coton,139.9,160.9,permanent
+SKU-0039,"Veste en coton ""Vendôme""",vestes,coton,166.9,193.9,printemps-été
+SKU-0040,"Veste en lin ""Riviera""",vestes,lin,152.9,168.9,automne-hiver
+SKU-0041,"Veste en lin ""Vendôme""",vestes,lin,154.9,182.9,printemps-été
+SKU-0042,"Veste en synthétique ""Provence""",vestes,synthétique,160.9,186.9,printemps-été
+SKU-0043,"Veste en coton ""Montmartre""",vestes,coton,101.9,113.9,automne-hiver
+SKU-0044,"Veste en cuir ""Côte d'Azur""",vestes,cuir,131.9,153.9,printemps-été
+SKU-0045,"Veste en laine ""Vendôme""",vestes,laine,91.9,104.9,permanent
+SKU-0046,"Veste en lin ""Provence""",vestes,lin,182.9,212.9,printemps-été
+SKU-0047,"Veste en synthétique ""Opéra""",vestes,synthétique,133.9,156.9,printemps-été
+SKU-0048,"Veste en synthétique ""Côte d'Azur""",vestes,synthétique,80.9,89.9,automne-hiver
+SKU-0049,"Veste en synthétique ""Bastille""",vestes,synthétique,157.9,181.9,permanent
+SKU-0050,"Veste en coton ""Vendôme""",vestes,coton,101.9,110.9,printemps-été
+SKU-0051,"Veste en cuir ""Provence""",vestes,cuir,86.9,98.9,permanent
+SKU-0052,"Veste en lin ""Côte d'Azur""",vestes,lin,186.9,198.9,printemps-été
+SKU-0053,"Veste en laine ""Riviera""",vestes,laine,87.9,102.9,automne-hiver
+SKU-0054,"Veste en laine ""Riviera""",vestes,laine,107.9,122.9,permanent
+SKU-0055,"Veste en synthétique ""Riviera""",vestes,synthétique,152.9,172.9,automne-hiver
+SKU-0056,"Veste en coton ""Bastille""",vestes,coton,154.9,169.9,automne-hiver
+SKU-0057,"Veste en coton ""Opéra""",vestes,coton,154.9,169.9,automne-hiver
+SKU-0058,"Veste en lin ""Riviera""",vestes,lin,130.9,154.9,printemps-été
+SKU-0059,"Veste en laine ""Riviera""",vestes,laine,103.9,113.9,automne-hiver
+SKU-0060,"Veste en coton ""Riviera""",vestes,coton,121.9,130.9,permanent
+SKU-0061,"Veste en laine ""Bastille""",vestes,laine,188.9,218.9,permanent
+SKU-0062,"Veste en laine ""Provence""",vestes,laine,113.9,129.9,printemps-été
+SKU-0063,"Veste en lin ""Bastille""",vestes,lin,178.9,205.9,printemps-été
+SKU-0064,"Veste en cuir ""Bastille""",vestes,cuir,146.9,168.9,printemps-été
+SKU-0065,"Veste en laine ""Bastille""",vestes,laine,134.9,158.9,printemps-été
+SKU-0066,"Veste en synthétique ""Riviera""",vestes,synthétique,171.9,181.9,automne-hiver
+SKU-0067,"Veste en cuir ""Côte d'Azur""",vestes,cuir,98.9,110.9,permanent
+SKU-0068,"Veste en laine ""Opéra""",vestes,laine,81.9,87.9,permanent
+SKU-0069,"Veste en laine ""Côte d'Azur""",vestes,laine,84.9,93.9,permanent
+SKU-0070,"Veste en synthétique ""Côte d'Azur""",vestes,synthétique,94.9,103.9,printemps-été
+SKU-0071,"Veste en coton ""Marais""",vestes,coton,155.9,177.9,automne-hiver
+SKU-0072,"Veste en laine ""Opéra""",vestes,laine,162.9,191.9,printemps-été
+SKU-0073,"Veste en coton ""Côte d'Azur""",vestes,coton,177.9,187.9,permanent
+SKU-0074,"Veste en synthétique ""Marais""",vestes,synthétique,168.9,196.9,printemps-été
+SKU-0075,"Veste en coton ""Bastille""",vestes,coton,167.9,179.9,printemps-été
+SKU-0076,"Veste en coton ""Vendôme""",vestes,coton,102.9,120.9,automne-hiver
+SKU-0077,"Veste en coton ""Bastille""",vestes,coton,104.9,119.9,automne-hiver
+SKU-0078,"Veste en cuir ""Marais""",vestes,cuir,175.9,207.9,automne-hiver
+SKU-0079,"Veste en laine ""Marais""",vestes,laine,124.9,147.9,permanent
+SKU-0080,"Veste en lin ""Marais""",vestes,lin,93.9,110.9,printemps-été
+SKU-0081,"Veste en lin ""Bastille""",vestes,lin,92.9,103.9,permanent
+SKU-0082,"Veste en synthétique ""Marais""",vestes,synthétique,147.9,165.9,automne-hiver
+SKU-0083,"Veste en cuir ""Montmartre""",vestes,cuir,85.9,95.9,permanent
+SKU-0084,"Veste en cuir ""Montmartre""",vestes,cuir,127.9,150.9,automne-hiver
+SKU-0085,"Veste en lin ""Marais""",vestes,lin,159.9,174.9,automne-hiver
+SKU-0086,"Veste en cuir ""Opéra""",vestes,cuir,124.9,136.9,printemps-été
+SKU-0087,"Veste en synthétique ""Montmartre""",vestes,synthétique,153.9,169.9,permanent
+SKU-0088,"Veste en laine ""Côte d'Azur""",vestes,laine,142.9,158.9,printemps-été
+SKU-0089,"Veste en cuir ""Bastille""",vestes,cuir,103.9,120.9,permanent
+SKU-0090,"Veste en synthétique ""Marais""",vestes,synthétique,128.9,147.9,permanent
+SKU-0091,"Robe en coton ""Rose""",robes,coton,122.9,134.9,permanent
+SKU-0092,"Robe en soie ""Nuage""",robes,soie,140.9,162.9,permanent
+SKU-0093,"Robe en coton ""Brume""",robes,coton,139.9,150.9,printemps-été
+SKU-0094,"Robe en synthétique ""Soleil""",robes,synthétique,117.9,136.9,automne-hiver
+SKU-0095,"Robe en jersey ""Fleur""",robes,jersey,71.9,82.9,automne-hiver
+SKU-0096,"Robe en coton ""Fleur""",robes,coton,66.9,76.9,printemps-été
+SKU-0097,"Robe en coton ""Fleur""",robes,coton,69.9,82.9,permanent
+SKU-0098,"Robe en soie ""Rose""",robes,soie,111.9,131.9,printemps-été
+SKU-0099,"Robe en coton ""Rose""",robes,coton,138.9,158.9,permanent
+SKU-0100,"Robe en synthétique ""Nuage""",robes,synthétique,117.9,135.9,permanent
+SKU-0101,"Robe en jersey ""Fleur""",robes,jersey,99.9,107.9,automne-hiver
+SKU-0102,"Robe en lin ""Rose""",robes,lin,133.9,155.9,automne-hiver
+SKU-0103,"Robe en coton ""Rose""",robes,coton,80.9,86.9,automne-hiver
+SKU-0104,"Robe en lin ""Soleil""",robes,lin,87.9,102.9,printemps-été
+SKU-0105,"Robe en coton ""Lumière""",robes,coton,75.9,87.9,permanent
+SKU-0106,"Robe en soie ""Soleil""",robes,soie,96.9,106.9,automne-hiver
+SKU-0107,"Robe en soie ""Fleur""",robes,soie,73.9,82.9,permanent
+SKU-0108,"Robe en jersey ""Étoile""",robes,jersey,92.9,98.9,automne-hiver
+SKU-0109,"Robe en synthétique ""Brume""",robes,synthétique,144.9,170.9,automne-hiver
+SKU-0110,"Robe en synthétique ""Soleil""",robes,synthétique,74.9,83.9,printemps-été
+SKU-0111,"Robe en lin ""Fleur""",robes,lin,123.9,143.9,permanent
+SKU-0112,"Robe en synthétique ""Lumière""",robes,synthétique,151.9,179.9,permanent
+SKU-0113,"Robe en synthétique ""Étoile""",robes,synthétique,115.9,132.9,printemps-été
+SKU-0114,"Robe en coton ""Fleur""",robes,coton,145.9,157.9,automne-hiver
+SKU-0115,"Robe en lin ""Fleur""",robes,lin,73.9,81.9,automne-hiver
+SKU-0116,"Robe en synthétique ""Brume""",robes,synthétique,78.9,84.9,printemps-été
+SKU-0117,"Robe en lin ""Étoile""",robes,lin,75.9,80.9,permanent
+SKU-0118,"Robe en soie ""Étoile""",robes,soie,154.9,167.9,printemps-été
+SKU-0119,"Robe en coton ""Lumière""",robes,coton,64.9,74.9,permanent
+SKU-0120,"Robe en synthétique ""Soleil""",robes,synthétique,127.9,147.9,printemps-été
+SKU-0121,"Robe en coton ""Aurore""",robes,coton,156.9,167.9,printemps-été
+SKU-0122,"Robe en jersey ""Brume""",robes,jersey,124.9,147.9,automne-hiver
+SKU-0123,"Robe en soie ""Soleil""",robes,soie,115.9,134.9,printemps-été
+SKU-0124,"Robe en lin ""Aurore""",robes,lin,143.9,162.9,printemps-été
+SKU-0125,"Robe en lin ""Étoile""",robes,lin,108.9,124.9,printemps-été
+SKU-0126,"Robe en soie ""Nuage""",robes,soie,143.9,166.9,printemps-été
+SKU-0127,"Robe en lin ""Fleur""",robes,lin,120.9,140.9,permanent
+SKU-0128,"Robe en synthétique ""Lumière""",robes,synthétique,69.9,78.9,permanent
+SKU-0129,"Robe en jersey ""Brume""",robes,jersey,139.9,157.9,automne-hiver
+SKU-0130,"Robe en synthétique ""Rose""",robes,synthétique,141.9,160.9,automne-hiver
+SKU-0131,"Robe en soie ""Soleil""",robes,soie,81.9,91.9,automne-hiver
+SKU-0132,"Robe en lin ""Fleur""",robes,lin,53.9,63.9,printemps-été
+SKU-0133,"Robe en coton ""Rose""",robes,coton,89.9,97.9,automne-hiver
+SKU-0134,"Robe en jersey ""Brume""",robes,jersey,51.9,61.9,printemps-été
+SKU-0135,"Robe en synthétique ""Soleil""",robes,synthétique,104.9,120.9,permanent
+SKU-0136,"Robe en synthétique ""Rose""",robes,synthétique,99.9,105.9,automne-hiver
+SKU-0137,"Robe en synthétique ""Soleil""",robes,synthétique,126.9,138.9,permanent
+SKU-0138,"Robe en synthétique ""Nuage""",robes,synthétique,111.9,122.9,permanent
+SKU-0139,"Robe en lin ""Nuage""",robes,lin,127.9,139.9,automne-hiver
+SKU-0140,"Robe en soie ""Soleil""",robes,soie,129.9,142.9,permanent
+SKU-0141,"Robe en coton ""Lumière""",robes,coton,74.9,83.9,permanent
+SKU-0142,"Robe en soie ""Brume""",robes,soie,141.9,154.9,automne-hiver
+SKU-0143,"Robe en lin ""Lumière""",robes,lin,51.9,58.9,automne-hiver
+SKU-0144,"Robe en soie ""Étoile""",robes,soie,111.9,128.9,printemps-été
+SKU-0145,"Robe en soie ""Rose""",robes,soie,146.9,165.9,automne-hiver
+SKU-0146,"Robe en synthétique ""Rose""",robes,synthétique,87.9,103.9,automne-hiver
+SKU-0147,"Robe en soie ""Rose""",robes,soie,140.9,155.9,printemps-été
+SKU-0148,"Robe en coton ""Étoile""",robes,coton,66.9,75.9,automne-hiver
+SKU-0149,"Robe en coton ""Aurore""",robes,coton,63.9,73.9,permanent
+SKU-0150,"Robe en jersey ""Soleil""",robes,jersey,92.9,109.9,automne-hiver
+SKU-0151,"Robe en lin ""Fleur""",robes,lin,112.9,119.9,permanent
+SKU-0152,"Robe en coton ""Aurore""",robes,coton,119.9,130.9,printemps-été
+SKU-0153,"Robe en coton ""Lumière""",robes,coton,69.9,74.9,printemps-été
+SKU-0154,"Robe en synthétique ""Fleur""",robes,synthétique,126.9,141.9,printemps-été
+SKU-0155,"Robe en lin ""Soleil""",robes,lin,128.9,147.9,automne-hiver
+SKU-0156,"Robe en coton ""Aurore""",robes,coton,152.9,176.9,permanent
+SKU-0157,"Robe en synthétique ""Soleil""",robes,synthétique,63.9,69.9,printemps-été
+SKU-0158,"Robe en coton ""Brume""",robes,coton,58.9,63.9,automne-hiver
+SKU-0159,"Robe en synthétique ""Brume""",robes,synthétique,64.9,74.9,permanent
+SKU-0160,"Robe en lin ""Fleur""",robes,lin,105.9,118.9,printemps-été
+SKU-0161,"Robe en synthétique ""Étoile""",robes,synthétique,131.9,149.9,printemps-été
+SKU-0162,"Robe en coton ""Aurore""",robes,coton,156.9,182.9,permanent
+SKU-0163,"Robe en lin ""Étoile""",robes,lin,113.9,131.9,printemps-été
+SKU-0164,"Robe en jersey ""Rose""",robes,jersey,122.9,144.9,printemps-été
+SKU-0165,"Robe en synthétique ""Fleur""",robes,synthétique,156.9,174.9,automne-hiver
+SKU-0166,"Robe en lin ""Nuage""",robes,lin,124.9,145.9,automne-hiver
+SKU-0167,"Robe en synthétique ""Fleur""",robes,synthétique,82.9,97.9,permanent
+SKU-0168,"Robe en synthétique ""Étoile""",robes,synthétique,60.9,66.9,printemps-été
+SKU-0169,"Robe en jersey ""Fleur""",robes,jersey,141.9,149.9,permanent
+SKU-0170,"Robe en synthétique ""Rose""",robes,synthétique,56.9,64.9,permanent
+SKU-0171,"Robe en synthétique ""Rose""",robes,synthétique,134.9,145.9,permanent
+SKU-0172,"Robe en lin ""Lumière""",robes,lin,98.9,113.9,printemps-été
+SKU-0173,"Robe en jersey ""Étoile""",robes,jersey,138.9,159.9,automne-hiver
+SKU-0174,"Robe en jersey ""Étoile""",robes,jersey,95.9,103.9,printemps-été
+SKU-0175,"Robe en soie ""Rose""",robes,soie,121.9,130.9,permanent
+SKU-0176,"Robe en jersey ""Brume""",robes,jersey,128.9,142.9,automne-hiver
+SKU-0177,"Robe en coton ""Rose""",robes,coton,100.9,108.9,printemps-été
+SKU-0178,"Robe en soie ""Lumière""",robes,soie,80.9,93.9,automne-hiver
+SKU-0179,"Robe en jersey ""Nuage""",robes,jersey,79.9,84.9,permanent
+SKU-0180,"Robe en jersey ""Brume""",robes,jersey,114.9,131.9,printemps-été
+SKU-0181,"Robe en jersey ""Rose""",robes,jersey,103.9,114.9,permanent
+SKU-0182,"Robe en synthétique ""Fleur""",robes,synthétique,153.9,179.9,permanent
+SKU-0183,"Robe en jersey ""Soleil""",robes,jersey,92.9,108.9,automne-hiver
+SKU-0184,"Robe en lin ""Étoile""",robes,lin,132.9,152.9,automne-hiver
+SKU-0185,"Robe en coton ""Fleur""",robes,coton,104.9,111.9,permanent
+SKU-0186,"Robe en soie ""Nuage""",robes,soie,146.9,163.9,permanent
+SKU-0187,"Robe en soie ""Rose""",robes,soie,129.9,143.9,permanent
+SKU-0188,"Robe en soie ""Lumière""",robes,soie,102.9,121.9,automne-hiver
+SKU-0189,"Robe en soie ""Fleur""",robes,soie,144.9,168.9,permanent
+SKU-0190,"Robe en lin ""Fleur""",robes,lin,119.9,140.9,automne-hiver
+SKU-0191,"Robe en jersey ""Étoile""",robes,jersey,57.9,66.9,automne-hiver
+SKU-0192,"Robe en soie ""Soleil""",robes,soie,98.9,105.9,permanent
+SKU-0193,"Robe en synthétique ""Aurore""",robes,synthétique,68.9,75.9,printemps-été
+SKU-0194,"Robe en lin ""Étoile""",robes,lin,137.9,150.9,automne-hiver
+SKU-0195,"Robe en coton ""Fleur""",robes,coton,77.9,86.9,permanent
+SKU-0196,"Robe en coton ""Lumière""",robes,coton,69.9,79.9,automne-hiver
+SKU-0197,"Robe en synthétique ""Soleil""",robes,synthétique,150.9,161.9,automne-hiver
+SKU-0198,"Robe en synthétique ""Brume""",robes,synthétique,78.9,83.9,automne-hiver
+SKU-0199,"Robe en jersey ""Brume""",robes,jersey,67.9,75.9,automne-hiver
+SKU-0200,"Robe en synthétique ""Brume""",robes,synthétique,126.9,141.9,automne-hiver
+SKU-0201,"Pantalon en synthétique ""Élégance""",pantalons,synthétique,108.9,116.9,automne-hiver
+SKU-0202,"Pantalon en denim ""Moderne""",pantalons,denim,86.9,102.9,automne-hiver
+SKU-0203,"Pantalon en synthétique ""Liberté""",pantalons,synthétique,62.9,71.9,permanent
+SKU-0204,"Pantalon en coton ""Urbain""",pantalons,coton,113.9,131.9,automne-hiver
+SKU-0205,"Pantalon en laine ""Élégance""",pantalons,laine,104.9,113.9,printemps-été
+SKU-0206,"Pantalon en denim ""Moderne""",pantalons,denim,94.9,109.9,permanent
+SKU-0207,"Pantalon en lin ""Urbain""",pantalons,lin,90.9,106.9,permanent
+SKU-0208,"Pantalon en denim ""Liberté""",pantalons,denim,103.9,110.9,automne-hiver
+SKU-0209,"Pantalon en lin ""Urbain""",pantalons,lin,47.9,52.9,permanent
+SKU-0210,"Pantalon en lin ""Classique""",pantalons,lin,56.9,66.9,automne-hiver
+SKU-0211,"Pantalon en laine ""Moderne""",pantalons,laine,113.9,132.9,automne-hiver
+SKU-0212,"Pantalon en denim ""Classique""",pantalons,denim,100.9,110.9,printemps-été
+SKU-0213,"Pantalon en coton ""Classique""",pantalons,coton,51.9,61.9,permanent
+SKU-0214,"Pantalon en synthétique ""Urbain""",pantalons,synthétique,117.9,136.9,automne-hiver
+SKU-0215,"Pantalon en synthétique ""Liberté""",pantalons,synthétique,41.9,47.9,automne-hiver
+SKU-0216,"Pantalon en denim ""Parisien""",pantalons,denim,87.9,102.9,automne-hiver
+SKU-0217,"Pantalon en lin ""Liberté""",pantalons,lin,78.9,89.9,permanent
+SKU-0218,"Pantalon en laine ""Parisien""",pantalons,laine,58.9,62.9,automne-hiver
+SKU-0219,"Pantalon en denim ""Urbain""",pantalons,denim,92.9,99.9,printemps-été
+SKU-0220,"Pantalon en denim ""Liberté""",pantalons,denim,120.9,129.9,printemps-été
+SKU-0221,"Pantalon en lin ""Moderne""",pantalons,lin,71.9,79.9,permanent
+SKU-0222,"Pantalon en laine ""Urbain""",pantalons,laine,73.9,85.9,printemps-été
+SKU-0223,"Pantalon en coton ""Classique""",pantalons,coton,107.9,122.9,automne-hiver
+SKU-0224,"Pantalon en denim ""Liberté""",pantalons,denim,57.9,64.9,printemps-été
+SKU-0225,"Pantalon en coton ""Parisien""",pantalons,coton,118.9,131.9,permanent
+SKU-0226,"Pantalon en coton ""Parisien""",pantalons,coton,72.9,78.9,printemps-été
+SKU-0227,"Pantalon en coton ""Classique""",pantalons,coton,93.9,106.9,permanent
+SKU-0228,"Pantalon en coton ""Liberté""",pantalons,coton,103.9,112.9,printemps-été
+SKU-0229,"Pantalon en lin ""Moderne""",pantalons,lin,45.9,53.9,printemps-été
+SKU-0230,"Pantalon en lin ""Moderne""",pantalons,lin,105.9,114.9,printemps-été
+SKU-0231,"Pantalon en coton ""Moderne""",pantalons,coton,62.9,74.9,printemps-été
+SKU-0232,"Pantalon en denim ""Moderne""",pantalons,denim,104.9,112.9,printemps-été
+SKU-0233,"Pantalon en coton ""Élégance""",pantalons,coton,69.9,81.9,permanent
+SKU-0234,"Pantalon en coton ""Parisien""",pantalons,coton,54.9,58.9,permanent
+SKU-0235,"Pantalon en laine ""Classique""",pantalons,laine,49.9,53.9,automne-hiver
+SKU-0236,"Pantalon en laine ""Parisien""",pantalons,laine,87.9,97.9,printemps-été
+SKU-0237,"Pantalon en coton ""Moderne""",pantalons,coton,98.9,116.9,permanent
+SKU-0238,"Pantalon en denim ""Moderne""",pantalons,denim,77.9,92.9,printemps-été
+SKU-0239,"Pantalon en synthétique ""Classique""",pantalons,synthétique,74.9,80.9,permanent
+SKU-0240,"Pantalon en coton ""Classique""",pantalons,coton,112.9,123.9,printemps-été
+SKU-0241,"Pantalon en lin ""Liberté""",pantalons,lin,62.9,71.9,permanent
+SKU-0242,"Pantalon en denim ""Urbain""",pantalons,denim,70.9,80.9,automne-hiver
+SKU-0243,"Pantalon en laine ""Classique""",pantalons,laine,88.9,94.9,permanent
+SKU-0244,"Pantalon en laine ""Liberté""",pantalons,laine,98.9,107.9,automne-hiver
+SKU-0245,"Pantalon en synthétique ""Élégance""",pantalons,synthétique,67.9,75.9,automne-hiver
+SKU-0246,"Pantalon en coton ""Urbain""",pantalons,coton,65.9,72.9,automne-hiver
+SKU-0247,"Pantalon en lin ""Parisien""",pantalons,lin,95.9,107.9,printemps-été
+SKU-0248,"Pantalon en coton ""Liberté""",pantalons,coton,74.9,86.9,automne-hiver
+SKU-0249,"Pantalon en laine ""Élégance""",pantalons,laine,45.9,54.9,permanent
+SKU-0250,"Pantalon en coton ""Parisien""",pantalons,coton,73.9,86.9,automne-hiver
+SKU-0251,"Pantalon en coton ""Urbain""",pantalons,coton,117.9,133.9,automne-hiver
+SKU-0252,"Pantalon en laine ""Liberté""",pantalons,laine,80.9,87.9,automne-hiver
+SKU-0253,"Pantalon en coton ""Élégance""",pantalons,coton,68.9,77.9,printemps-été
+SKU-0254,"Pantalon en laine ""Parisien""",pantalons,laine,58.9,65.9,permanent
+SKU-0255,"Pantalon en laine ""Moderne""",pantalons,laine,94.9,107.9,permanent
+SKU-0256,"Pantalon en denim ""Urbain""",pantalons,denim,42.9,47.9,automne-hiver
+SKU-0257,"Pantalon en denim ""Parisien""",pantalons,denim,40.9,48.9,permanent
+SKU-0258,"Pantalon en synthétique ""Urbain""",pantalons,synthétique,45.9,53.9,printemps-été
+SKU-0259,"Pantalon en laine ""Liberté""",pantalons,laine,57.9,64.9,automne-hiver
+SKU-0260,"Pantalon en denim ""Élégance""",pantalons,denim,65.9,72.9,permanent
+SKU-0261,"Pantalon en coton ""Moderne""",pantalons,coton,111.9,120.9,permanent
+SKU-0262,"Pantalon en coton ""Liberté""",pantalons,coton,62.9,71.9,automne-hiver
+SKU-0263,"Pantalon en synthétique ""Moderne""",pantalons,synthétique,73.9,80.9,permanent
+SKU-0264,"Pantalon en denim ""Liberté""",pantalons,denim,74.9,81.9,permanent
+SKU-0265,"Pantalon en synthétique ""Moderne""",pantalons,synthétique,82.9,90.9,printemps-été
+SKU-0266,"Pantalon en laine ""Classique""",pantalons,laine,44.9,48.9,printemps-été
+SKU-0267,"Pantalon en denim ""Élégance""",pantalons,denim,63.9,68.9,automne-hiver
+SKU-0268,"Pantalon en synthétique ""Urbain""",pantalons,synthétique,54.9,60.9,permanent
+SKU-0269,"Pantalon en laine ""Élégance""",pantalons,laine,85.9,98.9,automne-hiver
+SKU-0270,"Pantalon en synthétique ""Liberté""",pantalons,synthétique,109.9,116.9,printemps-été
+SKU-0271,"Pantalon en coton ""Classique""",pantalons,coton,109.9,124.9,permanent
+SKU-0272,"Pantalon en synthétique ""Classique""",pantalons,synthétique,63.9,70.9,automne-hiver
+SKU-0273,"Pantalon en laine ""Élégance""",pantalons,laine,77.9,89.9,automne-hiver
+SKU-0274,"Pantalon en synthétique ""Liberté""",pantalons,synthétique,107.9,117.9,permanent
+SKU-0275,"Pantalon en laine ""Classique""",pantalons,laine,46.9,55.9,permanent
+SKU-0276,"Pantalon en lin ""Parisien""",pantalons,lin,67.9,73.9,permanent
+SKU-0277,"Pantalon en coton ""Urbain""",pantalons,coton,82.9,89.9,automne-hiver
+SKU-0278,"Pantalon en lin ""Parisien""",pantalons,lin,59.9,64.9,printemps-été
+SKU-0279,"Pantalon en laine ""Élégance""",pantalons,laine,52.9,61.9,printemps-été
+SKU-0280,"Pantalon en synthétique ""Élégance""",pantalons,synthétique,77.9,88.9,permanent
+SKU-0281,"Pantalon en laine ""Classique""",pantalons,laine,91.9,108.9,automne-hiver
+SKU-0282,"Pantalon en denim ""Urbain""",pantalons,denim,52.9,56.9,automne-hiver
+SKU-0283,"Pantalon en denim ""Urbain""",pantalons,denim,104.9,118.9,automne-hiver
+SKU-0284,"Pantalon en coton ""Moderne""",pantalons,coton,65.9,73.9,printemps-été
+SKU-0285,"Pantalon en denim ""Parisien""",pantalons,denim,46.9,55.9,printemps-été
+SKU-0286,"Pantalon en laine ""Moderne""",pantalons,laine,80.9,90.9,permanent
+SKU-0287,"Pantalon en coton ""Urbain""",pantalons,coton,76.9,89.9,permanent
+SKU-0288,"Pantalon en denim ""Élégance""",pantalons,denim,88.9,99.9,printemps-été
+SKU-0289,"Pantalon en coton ""Classique""",pantalons,coton,105.9,123.9,permanent
+SKU-0290,"Pantalon en laine ""Liberté""",pantalons,laine,92.9,98.9,permanent
+SKU-0291,"Pantalon en synthétique ""Classique""",pantalons,synthétique,82.9,94.9,automne-hiver
+SKU-0292,"Pantalon en denim ""Parisien""",pantalons,denim,71.9,83.9,permanent
+SKU-0293,"Pantalon en coton ""Moderne""",pantalons,coton,103.9,118.9,printemps-été
+SKU-0294,"Pantalon en coton ""Parisien""",pantalons,coton,85.9,95.9,automne-hiver
+SKU-0295,"Pantalon en laine ""Urbain""",pantalons,laine,110.9,121.9,permanent
+SKU-0296,"Pantalon en lin ""Urbain""",pantalons,lin,113.9,124.9,permanent
+SKU-0297,"Pantalon en synthétique ""Urbain""",pantalons,synthétique,50.9,58.9,printemps-été
+SKU-0298,"Pantalon en laine ""Parisien""",pantalons,laine,70.9,82.9,printemps-été
+SKU-0299,"Pantalon en laine ""Urbain""",pantalons,laine,47.9,54.9,permanent
+SKU-0300,"Pantalon en coton ""Parisien""",pantalons,coton,69.9,75.9,printemps-été
+SKU-0301,"Chemise en popeline ""Tuileries""",chemises,popeline,45.9,54.9,printemps-été
+SKU-0302,"Chemise en soie ""Saint-Germain""",chemises,soie,81.9,87.9,permanent
+SKU-0303,"Chemise en coton ""Luxembourg""",chemises,coton,71.9,84.9,permanent
+SKU-0304,"Chemise en popeline ""Rive Gauche""",chemises,popeline,43.9,47.9,permanent
+SKU-0305,"Chemise en lin ""Luxembourg""",chemises,lin,75.9,80.9,automne-hiver
+SKU-0306,"Chemise en popeline ""Rive Gauche""",chemises,popeline,68.9,79.9,automne-hiver
+SKU-0307,"Chemise en lin ""Rive Gauche""",chemises,lin,52.9,61.9,automne-hiver
+SKU-0308,"Chemise en soie ""Rive Gauche""",chemises,soie,72.9,82.9,automne-hiver
+SKU-0309,"Chemise en soie ""Concorde""",chemises,soie,78.9,88.9,automne-hiver
+SKU-0310,"Chemise en lin ""Rive Gauche""",chemises,lin,79.9,85.9,automne-hiver
+SKU-0311,"Chemise en popeline ""Saint-Germain""",chemises,popeline,83.9,94.9,printemps-été
+SKU-0312,"Chemise en coton ""Luxembourg""",chemises,coton,51.9,60.9,automne-hiver
+SKU-0313,"Chemise en lin ""Concorde""",chemises,lin,81.9,87.9,printemps-été
+SKU-0314,"Chemise en soie ""Concorde""",chemises,soie,86.9,96.9,automne-hiver
+SKU-0315,"Chemise en soie ""Luxembourg""",chemises,soie,48.9,58.9,automne-hiver
+SKU-0316,"Chemise en coton ""Rive Gauche""",chemises,coton,52.9,56.9,permanent
+SKU-0317,"Chemise en lin ""Tuileries""",chemises,lin,42.9,47.9,automne-hiver
+SKU-0318,"Chemise en popeline ""Rive Gauche""",chemises,popeline,60.9,64.9,printemps-été
+SKU-0319,"Chemise en soie ""Saint-Germain""",chemises,soie,47.9,51.9,permanent
+SKU-0320,"Chemise en popeline ""Luxembourg""",chemises,popeline,41.9,46.9,automne-hiver
+SKU-0321,"Chemise en coton ""Saint-Germain""",chemises,coton,48.9,55.9,permanent
+SKU-0322,"Chemise en coton ""Concorde""",chemises,coton,41.9,49.9,permanent
+SKU-0323,"Chemise en coton ""Luxembourg""",chemises,coton,70.9,80.9,permanent
+SKU-0324,"Chemise en soie ""Rive Gauche""",chemises,soie,59.9,68.9,printemps-été
+SKU-0325,"Chemise en popeline ""Luxembourg""",chemises,popeline,45.9,52.9,permanent
+SKU-0326,"Chemise en coton ""Tuileries""",chemises,coton,87.9,99.9,permanent
+SKU-0327,"Chemise en coton ""Luxembourg""",chemises,coton,56.9,63.9,permanent
+SKU-0328,"Chemise en soie ""Concorde""",chemises,soie,49.9,53.9,printemps-été
+SKU-0329,"Chemise en lin ""Tuileries""",chemises,lin,75.9,86.9,permanent
+SKU-0330,"Chemise en lin ""Tuileries""",chemises,lin,37.9,42.9,permanent
+SKU-0331,"Chemise en popeline ""Rive Gauche""",chemises,popeline,89.9,100.9,printemps-été
+SKU-0332,"Chemise en coton ""Rive Gauche""",chemises,coton,74.9,88.9,printemps-été
+SKU-0333,"Chemise en lin ""Tuileries""",chemises,lin,37.9,41.9,printemps-été
+SKU-0334,"Chemise en soie ""Tuileries""",chemises,soie,63.9,75.9,permanent
+SKU-0335,"Chemise en soie ""Concorde""",chemises,soie,37.9,43.9,automne-hiver
+SKU-0336,"Chemise en coton ""Tuileries""",chemises,coton,83.9,92.9,printemps-été
+SKU-0337,"Chemise en popeline ""Tuileries""",chemises,popeline,84.9,97.9,automne-hiver
+SKU-0338,"Chemise en lin ""Tuileries""",chemises,lin,62.9,70.9,permanent
+SKU-0339,"Chemise en coton ""Tuileries""",chemises,coton,75.9,80.9,permanent
+SKU-0340,"Chemise en soie ""Rive Gauche""",chemises,soie,53.9,57.9,permanent
+SKU-0341,"Chemise en soie ""Tuileries""",chemises,soie,59.9,68.9,printemps-été
+SKU-0342,"Chemise en soie ""Concorde""",chemises,soie,59.9,69.9,automne-hiver
+SKU-0343,"Chemise en popeline ""Luxembourg""",chemises,popeline,50.9,60.9,printemps-été
+SKU-0344,"Chemise en popeline ""Saint-Germain""",chemises,popeline,55.9,65.9,permanent
+SKU-0345,"Chemise en coton ""Rive Gauche""",chemises,coton,43.9,50.9,automne-hiver
+SKU-0346,"Chemise en lin ""Saint-Germain""",chemises,lin,39.9,46.9,automne-hiver
+SKU-0347,"Chemise en popeline ""Tuileries""",chemises,popeline,87.9,93.9,printemps-été
+SKU-0348,"Chemise en soie ""Concorde""",chemises,soie,55.9,64.9,permanent
+SKU-0349,"Chemise en soie ""Rive Gauche""",chemises,soie,57.9,66.9,printemps-été
+SKU-0350,"Chemise en coton ""Saint-Germain""",chemises,coton,75.9,85.9,automne-hiver
+SKU-0351,"Chemise en coton ""Luxembourg""",chemises,coton,49.9,54.9,automne-hiver
+SKU-0352,"Chemise en soie ""Rive Gauche""",chemises,soie,73.9,87.9,printemps-été
+SKU-0353,"Chemise en lin ""Saint-Germain""",chemises,lin,82.9,92.9,permanent
+SKU-0354,"Chemise en coton ""Concorde""",chemises,coton,79.9,94.9,automne-hiver
+SKU-0355,"Chemise en coton ""Tuileries""",chemises,coton,65.9,72.9,automne-hiver
+SKU-0356,"Chemise en lin ""Rive Gauche""",chemises,lin,79.9,89.9,printemps-été
+SKU-0357,"Chemise en lin ""Rive Gauche""",chemises,lin,48.9,54.9,automne-hiver
+SKU-0358,"Chemise en soie ""Luxembourg""",chemises,soie,61.9,73.9,printemps-été
+SKU-0359,"Chemise en coton ""Luxembourg""",chemises,coton,39.9,44.9,permanent
+SKU-0360,"Chemise en popeline ""Concorde""",chemises,popeline,77.9,90.9,printemps-été
+SKU-0361,"Chemise en soie ""Rive Gauche""",chemises,soie,70.9,79.9,permanent
+SKU-0362,"Chemise en soie ""Luxembourg""",chemises,soie,42.9,50.9,permanent
+SKU-0363,"Chemise en lin ""Luxembourg""",chemises,lin,77.9,83.9,permanent
+SKU-0364,"Chemise en coton ""Saint-Germain""",chemises,coton,63.9,70.9,printemps-été
+SKU-0365,"Chemise en lin ""Tuileries""",chemises,lin,54.9,64.9,automne-hiver
+SKU-0366,"Chemise en soie ""Saint-Germain""",chemises,soie,46.9,55.9,automne-hiver
+SKU-0367,"Chemise en soie ""Rive Gauche""",chemises,soie,69.9,74.9,permanent
+SKU-0368,"Chemise en lin ""Rive Gauche""",chemises,lin,44.9,51.9,permanent
+SKU-0369,"Chemise en coton ""Tuileries""",chemises,coton,80.9,85.9,printemps-été
+SKU-0370,"Chemise en soie ""Luxembourg""",chemises,soie,71.9,83.9,automne-hiver
+SKU-0371,"Chemise en coton ""Luxembourg""",chemises,coton,62.9,71.9,automne-hiver
+SKU-0372,"Chemise en popeline ""Tuileries""",chemises,popeline,48.9,56.9,automne-hiver
+SKU-0373,"Chemise en popeline ""Tuileries""",chemises,popeline,39.9,42.9,automne-hiver
+SKU-0374,"Chemise en popeline ""Concorde""",chemises,popeline,60.9,67.9,printemps-été
+SKU-0375,"Chemise en soie ""Tuileries""",chemises,soie,75.9,88.9,automne-hiver
+SKU-0376,"Chemise en soie ""Rive Gauche""",chemises,soie,63.9,68.9,printemps-été
+SKU-0377,"Chemise en coton ""Concorde""",chemises,coton,50.9,55.9,printemps-été
+SKU-0378,"Chemise en soie ""Saint-Germain""",chemises,soie,87.9,102.9,automne-hiver
+SKU-0379,"Chemise en lin ""Rive Gauche""",chemises,lin,80.9,95.9,permanent
+SKU-0380,"Chemise en lin ""Tuileries""",chemises,lin,77.9,87.9,permanent
+SKU-0381,"Chemise en popeline ""Concorde""",chemises,popeline,83.9,94.9,printemps-été
+SKU-0382,"Chemise en popeline ""Concorde""",chemises,popeline,88.9,96.9,automne-hiver
+SKU-0383,"Chemise en coton ""Saint-Germain""",chemises,coton,50.9,57.9,permanent
+SKU-0384,"Chemise en soie ""Concorde""",chemises,soie,64.9,75.9,automne-hiver
+SKU-0385,"Chemise en soie ""Rive Gauche""",chemises,soie,75.9,87.9,automne-hiver
+SKU-0386,"Chemise en popeline ""Saint-Germain""",chemises,popeline,38.9,44.9,automne-hiver
+SKU-0387,"Chemise en soie ""Luxembourg""",chemises,soie,39.9,45.9,permanent
+SKU-0388,"Chemise en coton ""Tuileries""",chemises,coton,42.9,46.9,automne-hiver
+SKU-0389,"Chemise en soie ""Tuileries""",chemises,soie,76.9,83.9,permanent
+SKU-0390,"Chemise en coton ""Concorde""",chemises,coton,37.9,40.9,automne-hiver
+SKU-0391,"Chemise en popeline ""Concorde""",chemises,popeline,43.9,51.9,printemps-été
+SKU-0392,"Chemise en soie ""Tuileries""",chemises,soie,44.9,53.9,permanent
+SKU-0393,"Chemise en soie ""Tuileries""",chemises,soie,63.9,71.9,automne-hiver
+SKU-0394,"Chemise en soie ""Luxembourg""",chemises,soie,61.9,65.9,automne-hiver
+SKU-0395,"Chemise en popeline ""Saint-Germain""",chemises,popeline,67.9,78.9,permanent
+SKU-0396,"Pull en laine ""Vosges""",pulls,laine,108.9,118.9,permanent
+SKU-0397,"Pull en cachemire ""Jura""",pulls,cachemire,121.9,137.9,printemps-été
+SKU-0398,"Pull en maille ""Jura""",pulls,maille,60.9,69.9,printemps-été
+SKU-0399,"Pull en laine ""Jura""",pulls,laine,65.9,73.9,automne-hiver
+SKU-0400,"Pull en maille ""Pyrénées""",pulls,maille,117.9,130.9,permanent
+SKU-0401,"Pull en laine ""Savoie""",pulls,laine,119.9,134.9,permanent
+SKU-0402,"Pull en maille ""Chamonix""",pulls,maille,100.9,110.9,printemps-été
+SKU-0403,"Pull en coton ""Savoie""",pulls,coton,102.9,117.9,permanent
+SKU-0404,"Pull en coton ""Vosges""",pulls,coton,109.9,118.9,printemps-été
+SKU-0405,"Pull en coton ""Chamonix""",pulls,coton,69.9,82.9,automne-hiver
+SKU-0406,"Pull en cachemire ""Chamonix""",pulls,cachemire,117.9,131.9,automne-hiver
+SKU-0407,"Pull en coton ""Chamonix""",pulls,coton,75.9,85.9,permanent
+SKU-0408,"Pull en maille ""Savoie""",pulls,maille,131.9,155.9,printemps-été
+SKU-0409,"Pull en laine ""Chamonix""",pulls,laine,75.9,87.9,automne-hiver
+SKU-0410,"Pull en coton ""Savoie""",pulls,coton,123.9,134.9,permanent
+SKU-0411,"Pull en coton ""Chamonix""",pulls,coton,59.9,68.9,permanent
+SKU-0412,"Pull en cachemire ""Pyrénées""",pulls,cachemire,50.9,59.9,printemps-été
+SKU-0413,"Pull en cachemire ""Vosges""",pulls,cachemire,50.9,56.9,permanent
+SKU-0414,"Pull en laine ""Savoie""",pulls,laine,116.9,125.9,permanent
+SKU-0415,"Pull en maille ""Pyrénées""",pulls,maille,113.9,133.9,automne-hiver
+SKU-0416,"Pull en cachemire ""Savoie""",pulls,cachemire,124.9,136.9,automne-hiver
+SKU-0417,"Pull en laine ""Vosges""",pulls,laine,140.9,150.9,permanent
+SKU-0418,"Pull en laine ""Pyrénées""",pulls,laine,141.9,152.9,printemps-été
+SKU-0419,"Pull en maille ""Alpin""",pulls,maille,128.9,138.9,permanent
+SKU-0420,"Pull en laine ""Chamonix""",pulls,laine,46.9,53.9,printemps-été
+SKU-0421,"Pull en coton ""Chamonix""",pulls,coton,93.9,106.9,permanent
+SKU-0422,"Pull en cachemire ""Savoie""",pulls,cachemire,134.9,150.9,printemps-été
+SKU-0423,"Pull en coton ""Alpin""",pulls,coton,62.9,70.9,automne-hiver
+SKU-0424,"Pull en cachemire ""Vosges""",pulls,cachemire,46.9,51.9,automne-hiver
+SKU-0425,"Pull en cachemire ""Jura""",pulls,cachemire,63.9,74.9,automne-hiver
+SKU-0426,"Pull en coton ""Savoie""",pulls,coton,54.9,62.9,printemps-été
+SKU-0427,"Pull en maille ""Pyrénées""",pulls,maille,79.9,86.9,automne-hiver
+SKU-0428,"Pull en cachemire ""Savoie""",pulls,cachemire,92.9,101.9,automne-hiver
+SKU-0429,"Pull en laine ""Chamonix""",pulls,laine,72.9,80.9,printemps-été
+SKU-0430,"Pull en laine ""Alpin""",pulls,laine,94.9,102.9,permanent
+SKU-0431,"Pull en coton ""Jura""",pulls,coton,117.9,134.9,automne-hiver
+SKU-0432,"Pull en cachemire ""Chamonix""",pulls,cachemire,68.9,74.9,printemps-été
+SKU-0433,"Pull en coton ""Savoie""",pulls,coton,89.9,101.9,automne-hiver
+SKU-0434,"Pull en cachemire ""Jura""",pulls,cachemire,125.9,143.9,permanent
+SKU-0435,"Pull en maille ""Alpin""",pulls,maille,100.9,111.9,permanent
+SKU-0436,"Pull en laine ""Alpin""",pulls,laine,132.9,155.9,printemps-été
+SKU-0437,"Pull en cachemire ""Jura""",pulls,cachemire,62.9,73.9,automne-hiver
+SKU-0438,"Pull en cachemire ""Alpin""",pulls,cachemire,120.9,135.9,permanent
+SKU-0439,"Pull en laine ""Savoie""",pulls,laine,93.9,105.9,automne-hiver
+SKU-0440,"Pull en laine ""Jura""",pulls,laine,104.9,119.9,automne-hiver
+SKU-0441,"Pull en laine ""Vosges""",pulls,laine,86.9,100.9,permanent
+SKU-0442,"Pull en laine ""Pyrénées""",pulls,laine,50.9,56.9,printemps-été
+SKU-0443,"Pull en laine ""Jura""",pulls,laine,143.9,152.9,automne-hiver
+SKU-0444,"Pull en coton ""Alpin""",pulls,coton,88.9,102.9,permanent
+SKU-0445,"Pull en maille ""Vosges""",pulls,maille,84.9,99.9,automne-hiver
+SKU-0446,"Pull en maille ""Savoie""",pulls,maille,53.9,63.9,permanent
+SKU-0447,"Pull en coton ""Pyrénées""",pulls,coton,57.9,68.9,automne-hiver
+SKU-0448,"Pull en cachemire ""Jura""",pulls,cachemire,121.9,132.9,printemps-été
+SKU-0449,"Pull en coton ""Alpin""",pulls,coton,94.9,109.9,automne-hiver
+SKU-0450,"Pull en maille ""Jura""",pulls,maille,131.9,143.9,automne-hiver
+SKU-0451,"Pull en coton ""Pyrénées""",pulls,coton,65.9,77.9,printemps-été
+SKU-0452,"Pull en maille ""Alpin""",pulls,maille,109.9,129.9,printemps-été
+SKU-0453,"Pull en cachemire ""Pyrénées""",pulls,cachemire,52.9,60.9,automne-hiver
+SKU-0454,"Pull en laine ""Jura""",pulls,laine,71.9,76.9,automne-hiver
+SKU-0455,"Pull en cachemire ""Pyrénées""",pulls,cachemire,124.9,144.9,printemps-été
+SKU-0456,"Pull en coton ""Jura""",pulls,coton,69.9,82.9,permanent
+SKU-0457,"Pull en coton ""Chamonix""",pulls,coton,70.9,83.9,permanent
+SKU-0458,"Pull en cachemire ""Jura""",pulls,cachemire,88.9,97.9,permanent
+SKU-0459,"Pull en cachemire ""Jura""",pulls,cachemire,111.9,124.9,automne-hiver
+SKU-0460,"Pull en coton ""Alpin""",pulls,coton,144.9,165.9,permanent
+SKU-0461,"Pull en maille ""Chamonix""",pulls,maille,88.9,97.9,printemps-été
+SKU-0462,"Pull en maille ""Jura""",pulls,maille,70.9,77.9,permanent
+SKU-0463,"Pull en maille ""Pyrénées""",pulls,maille,141.9,159.9,automne-hiver
+SKU-0464,"Pull en cachemire ""Jura""",pulls,cachemire,86.9,94.9,automne-hiver
+SKU-0465,"Pull en laine ""Vosges""",pulls,laine,142.9,166.9,printemps-été
+SKU-0466,"Pull en cachemire ""Jura""",pulls,cachemire,50.9,56.9,permanent
+SKU-0467,"Pull en laine ""Jura""",pulls,laine,137.9,148.9,permanent
+SKU-0468,"Pull en cachemire ""Vosges""",pulls,cachemire,95.9,112.9,automne-hiver
+SKU-0469,"Pull en laine ""Chamonix""",pulls,laine,67.9,73.9,permanent
+SKU-0470,"Pull en maille ""Alpin""",pulls,maille,141.9,162.9,permanent
+SKU-0471,"Pull en maille ""Pyrénées""",pulls,maille,141.9,159.9,automne-hiver
+SKU-0472,"Pull en maille ""Savoie""",pulls,maille,101.9,112.9,automne-hiver
+SKU-0473,"Pull en maille ""Chamonix""",pulls,maille,94.9,110.9,permanent
+SKU-0474,"Pull en coton ""Savoie""",pulls,coton,141.9,156.9,automne-hiver
+SKU-0475,"Pull en cachemire ""Alpin""",pulls,cachemire,123.9,130.9,permanent
+SKU-0476,"Pull en maille ""Jura""",pulls,maille,76.9,83.9,printemps-été
+SKU-0477,"Pull en cachemire ""Savoie""",pulls,cachemire,97.9,111.9,permanent
+SKU-0478,"Pull en coton ""Chamonix""",pulls,coton,125.9,140.9,permanent
+SKU-0479,"Pull en maille ""Vosges""",pulls,maille,93.9,108.9,automne-hiver
+SKU-0480,"Pull en cachemire ""Pyrénées""",pulls,cachemire,121.9,136.9,permanent
+SKU-0481,"Jupe en coton ""Mélodie""",jupes,coton,89.9,95.9,permanent
+SKU-0482,"Jupe en coton ""Mélodie""",jupes,coton,62.9,73.9,printemps-été
+SKU-0483,"Jupe en lin ""Mélodie""",jupes,lin,35.9,40.9,automne-hiver
+SKU-0484,"Jupe en synthétique ""Mélodie""",jupes,synthétique,78.9,83.9,permanent
+SKU-0485,"Jupe en synthétique ""Valse""",jupes,synthétique,36.9,41.9,automne-hiver
+SKU-0486,"Jupe en soie ""Valse""",jupes,soie,36.9,43.9,permanent
+SKU-0487,"Jupe en lin ""Grâce""",jupes,lin,42.9,46.9,printemps-été
+SKU-0488,"Jupe en lin ""Harmonie""",jupes,lin,75.9,82.9,automne-hiver
+SKU-0489,"Jupe en synthétique ""Danse""",jupes,synthétique,40.9,48.9,automne-hiver
+SKU-0490,"Jupe en lin ""Valse""",jupes,lin,99.9,108.9,permanent
+SKU-0491,"Jupe en coton ""Mélodie""",jupes,coton,41.9,46.9,permanent
+SKU-0492,"Jupe en coton ""Grâce""",jupes,coton,76.9,88.9,printemps-été
+SKU-0493,"Jupe en synthétique ""Grâce""",jupes,synthétique,77.9,85.9,printemps-été
+SKU-0494,"Jupe en coton ""Valse""",jupes,coton,50.9,59.9,permanent
+SKU-0495,"Jupe en synthétique ""Valse""",jupes,synthétique,53.9,63.9,permanent
+SKU-0496,"Jupe en coton ""Danse""",jupes,coton,47.9,56.9,printemps-été
+SKU-0497,"Jupe en lin ""Harmonie""",jupes,lin,84.9,97.9,automne-hiver
+SKU-0498,"Jupe en soie ""Mélodie""",jupes,soie,45.9,50.9,automne-hiver
+SKU-0499,"Jupe en soie ""Valse""",jupes,soie,60.9,70.9,permanent
+SKU-0500,"Jupe en soie ""Mélodie""",jupes,soie,38.9,43.9,printemps-été
+SKU-0501,"Jupe en synthétique ""Danse""",jupes,synthétique,98.9,108.9,permanent
+SKU-0502,"Jupe en synthétique ""Danse""",jupes,synthétique,67.9,74.9,automne-hiver
+SKU-0503,"Jupe en lin ""Grâce""",jupes,lin,79.9,91.9,printemps-été
+SKU-0504,"Jupe en soie ""Valse""",jupes,soie,87.9,100.9,printemps-été
+SKU-0505,"Jupe en lin ""Danse""",jupes,lin,60.9,70.9,printemps-été
+SKU-0506,"Jupe en soie ""Grâce""",jupes,soie,58.9,63.9,automne-hiver
+SKU-0507,"Jupe en soie ""Grâce""",jupes,soie,84.9,90.9,printemps-été
+SKU-0508,"Jupe en synthétique ""Harmonie""",jupes,synthétique,64.9,73.9,automne-hiver
+SKU-0509,"Jupe en coton ""Mélodie""",jupes,coton,41.9,47.9,permanent
+SKU-0510,"Jupe en soie ""Valse""",jupes,soie,91.9,97.9,automne-hiver
+SKU-0511,"Jupe en coton ""Grâce""",jupes,coton,82.9,93.9,printemps-été
+SKU-0512,"Jupe en lin ""Valse""",jupes,lin,79.9,86.9,automne-hiver
+SKU-0513,"Jupe en soie ""Danse""",jupes,soie,67.9,72.9,automne-hiver
+SKU-0514,"Jupe en synthétique ""Danse""",jupes,synthétique,54.9,63.9,automne-hiver
+SKU-0515,"Jupe en lin ""Danse""",jupes,lin,82.9,92.9,permanent
+SKU-0516,"Jupe en synthétique ""Harmonie""",jupes,synthétique,42.9,47.9,automne-hiver
+SKU-0517,"Jupe en synthétique ""Danse""",jupes,synthétique,87.9,96.9,automne-hiver
+SKU-0518,"Jupe en lin ""Grâce""",jupes,lin,54.9,62.9,permanent
+SKU-0519,"Jupe en synthétique ""Harmonie""",jupes,synthétique,55.9,66.9,automne-hiver
+SKU-0520,"Jupe en synthétique ""Danse""",jupes,synthétique,98.9,114.9,automne-hiver
+SKU-0521,"Jupe en soie ""Grâce""",jupes,soie,88.9,98.9,printemps-été
+SKU-0522,"Jupe en lin ""Valse""",jupes,lin,73.9,83.9,permanent
+SKU-0523,"Jupe en coton ""Valse""",jupes,coton,97.9,109.9,permanent
+SKU-0524,"Jupe en synthétique ""Harmonie""",jupes,synthétique,87.9,102.9,printemps-été
+SKU-0525,"Jupe en synthétique ""Grâce""",jupes,synthétique,44.9,49.9,automne-hiver
+SKU-0526,"Jupe en synthétique ""Harmonie""",jupes,synthétique,86.9,92.9,permanent
+SKU-0527,"Jupe en synthétique ""Grâce""",jupes,synthétique,70.9,83.9,permanent
+SKU-0528,"Jupe en coton ""Grâce""",jupes,coton,86.9,95.9,permanent
+SKU-0529,"Jupe en coton ""Valse""",jupes,coton,42.9,46.9,permanent
+SKU-0530,"Jupe en lin ""Danse""",jupes,lin,77.9,82.9,permanent
+SKU-0531,"Jupe en soie ""Grâce""",jupes,soie,98.9,109.9,printemps-été
+SKU-0532,"Jupe en soie ""Mélodie""",jupes,soie,49.9,57.9,permanent
+SKU-0533,"Jupe en lin ""Valse""",jupes,lin,64.9,71.9,permanent
+SKU-0534,"Jupe en lin ""Valse""",jupes,lin,57.9,61.9,printemps-été
+SKU-0535,"Jupe en synthétique ""Danse""",jupes,synthétique,95.9,102.9,permanent
+SKU-0536,"Jupe en soie ""Harmonie""",jupes,soie,55.9,62.9,printemps-été
+SKU-0537,"Jupe en synthétique ""Valse""",jupes,synthétique,58.9,63.9,permanent
+SKU-0538,"Jupe en soie ""Grâce""",jupes,soie,39.9,42.9,permanent
+SKU-0539,"Jupe en coton ""Mélodie""",jupes,coton,90.9,103.9,permanent
+SKU-0540,"Jupe en lin ""Harmonie""",jupes,lin,68.9,77.9,automne-hiver
+SKU-0541,"Jupe en synthétique ""Valse""",jupes,synthétique,97.9,106.9,automne-hiver
+SKU-0542,"Jupe en lin ""Harmonie""",jupes,lin,77.9,86.9,printemps-été
+SKU-0543,"Jupe en lin ""Valse""",jupes,lin,64.9,72.9,printemps-été
+SKU-0544,"Jupe en lin ""Harmonie""",jupes,lin,53.9,62.9,printemps-été
+SKU-0545,"Jupe en coton ""Valse""",jupes,coton,87.9,98.9,automne-hiver
+SKU-0546,"Jupe en lin ""Danse""",jupes,lin,65.9,71.9,automne-hiver
+SKU-0547,"Jupe en soie ""Valse""",jupes,soie,74.9,85.9,permanent
+SKU-0548,"Jupe en soie ""Mélodie""",jupes,soie,58.9,65.9,printemps-été
+SKU-0549,"Jupe en coton ""Danse""",jupes,coton,79.9,87.9,printemps-été
+SKU-0550,"Jupe en coton ""Danse""",jupes,coton,47.9,55.9,permanent
+SKU-0551,"Accessoire mixte ""Accent""",accessoires,mixte,48.9,55.9,automne-hiver
+SKU-0552,"Accessoire mixte ""Signature""",accessoires,mixte,50.9,58.9,permanent
+SKU-0553,"Accessoire textile ""Signature""",accessoires,textile,42.9,46.9,automne-hiver
+SKU-0554,"Accessoire mixte ""Éclat""",accessoires,mixte,49.9,58.9,printemps-été
+SKU-0555,"Accessoire textile ""Accent""",accessoires,textile,26.9,30.9,permanent
+SKU-0556,"Accessoire mixte ""Touche""",accessoires,mixte,37.9,42.9,permanent
+SKU-0557,"Accessoire mixte ""Éclat""",accessoires,mixte,42.9,46.9,printemps-été
+SKU-0558,"Accessoire textile ""Éclat""",accessoires,textile,31.9,35.9,permanent
+SKU-0559,"Accessoire textile ""Détail""",accessoires,textile,58.9,66.9,automne-hiver
+SKU-0560,"Accessoire cuir ""Touche""",accessoires,cuir,46.9,51.9,permanent
+SKU-0561,"Accessoire métal ""Éclat""",accessoires,métal,45.9,53.9,permanent
+SKU-0562,"Accessoire textile ""Accent""",accessoires,textile,69.9,74.9,permanent
+SKU-0563,"Accessoire textile ""Éclat""",accessoires,textile,31.9,38.9,automne-hiver
+SKU-0564,"Accessoire métal ""Détail""",accessoires,métal,62.9,67.9,printemps-été
+SKU-0565,"Accessoire textile ""Éclat""",accessoires,textile,26.9,31.9,permanent
+SKU-0566,"Accessoire mixte ""Détail""",accessoires,mixte,24.9,27.9,printemps-été
+SKU-0567,"Accessoire textile ""Éclat""",accessoires,textile,59.9,67.9,permanent
+SKU-0568,"Accessoire textile ""Détail""",accessoires,textile,33.9,39.9,automne-hiver
+SKU-0569,"Accessoire métal ""Touche""",accessoires,métal,67.9,76.9,permanent
+SKU-0570,"Accessoire cuir ""Éclat""",accessoires,cuir,22.9,26.9,automne-hiver
+SKU-0571,"Accessoire métal ""Essentiel""",accessoires,métal,63.9,68.9,printemps-été
+SKU-0572,"Accessoire textile ""Signature""",accessoires,textile,54.9,64.9,permanent
+SKU-0573,"Accessoire mixte ""Accent""",accessoires,mixte,23.9,27.9,permanent
+SKU-0574,"Accessoire mixte ""Accent""",accessoires,mixte,40.9,46.9,printemps-été
+SKU-0575,"Accessoire métal ""Accent""",accessoires,métal,53.9,63.9,automne-hiver
+SKU-0576,"Accessoire métal ""Accent""",accessoires,métal,47.9,56.9,permanent
+SKU-0577,"Accessoire mixte ""Essentiel""",accessoires,mixte,50.9,58.9,printemps-été
+SKU-0578,"Accessoire mixte ""Éclat""",accessoires,mixte,27.9,31.9,printemps-été
+SKU-0579,"Accessoire métal ""Accent""",accessoires,métal,33.9,37.9,permanent
+SKU-0580,"Accessoire textile ""Touche""",accessoires,textile,46.9,52.9,automne-hiver
+SKU-0581,"Accessoire cuir ""Finesse""",accessoires,cuir,17.9,20.9,automne-hiver
+SKU-0582,"Accessoire cuir ""Essentiel""",accessoires,cuir,66.9,72.9,automne-hiver
+SKU-0583,"Accessoire mixte ""Essentiel""",accessoires,mixte,26.9,31.9,printemps-été
+SKU-0584,"Accessoire métal ""Finesse""",accessoires,métal,24.9,29.9,automne-hiver
+SKU-0585,"Accessoire métal ""Essentiel""",accessoires,métal,29.9,33.9,permanent
+SKU-0586,"Accessoire cuir ""Signature""",accessoires,cuir,37.9,41.9,permanent
+SKU-0587,"Accessoire textile ""Éclat""",accessoires,textile,39.9,42.9,printemps-été
+SKU-0588,"Accessoire textile ""Essentiel""",accessoires,textile,41.9,45.9,printemps-été
+SKU-0589,"Accessoire mixte ""Touche""",accessoires,mixte,15.9,18.9,printemps-été
+SKU-0590,"Accessoire mixte ""Éclat""",accessoires,mixte,53.9,60.9,printemps-été
+SKU-0591,"Accessoire cuir ""Accent""",accessoires,cuir,55.9,59.9,automne-hiver
+SKU-0592,"Accessoire métal ""Détail""",accessoires,métal,22.9,26.9,printemps-été
+SKU-0593,"Accessoire textile ""Finesse""",accessoires,textile,19.9,22.9,permanent
+SKU-0594,"Accessoire textile ""Finesse""",accessoires,textile,39.9,46.9,permanent
+SKU-0595,"Accessoire textile ""Finesse""",accessoires,textile,65.9,74.9,automne-hiver
+SKU-0596,"Accessoire textile ""Éclat""",accessoires,textile,20.9,22.9,printemps-été
+SKU-0597,"Accessoire mixte ""Touche""",accessoires,mixte,34.9,39.9,printemps-été
+SKU-0598,"Accessoire métal ""Signature""",accessoires,métal,50.9,55.9,permanent
+SKU-0599,"Accessoire métal ""Touche""",accessoires,métal,58.9,67.9,permanent
+SKU-0600,"Accessoire textile ""Détail""",accessoires,textile,43.9,49.9,permanent
+SKU-0601,"Accessoire métal ""Accent""",accessoires,métal,50.9,59.9,printemps-été
+SKU-0602,"Accessoire mixte ""Accent""",accessoires,mixte,21.9,24.9,permanent
+SKU-0603,"Accessoire cuir ""Essentiel""",accessoires,cuir,69.9,82.9,printemps-été
+SKU-0604,"Accessoire mixte ""Accent""",accessoires,mixte,35.9,41.9,automne-hiver
+SKU-0605,"Accessoire cuir ""Éclat""",accessoires,cuir,16.9,18.9,automne-hiver
+SKU-0606,"Accessoire cuir ""Signature""",accessoires,cuir,66.9,78.9,automne-hiver
+SKU-0607,"Accessoire métal ""Touche""",accessoires,métal,49.9,56.9,automne-hiver
+SKU-0608,"Accessoire mixte ""Accent""",accessoires,mixte,19.9,22.9,permanent
+SKU-0609,"Accessoire métal ""Signature""",accessoires,métal,20.9,22.9,printemps-été
+SKU-0610,"Accessoire textile ""Éclat""",accessoires,textile,44.9,49.9,permanent
+SKU-0611,"Accessoire cuir ""Éclat""",accessoires,cuir,32.9,36.9,printemps-été
+SKU-0612,"Accessoire textile ""Essentiel""",accessoires,textile,20.9,23.9,automne-hiver
+SKU-0613,"Accessoire cuir ""Touche""",accessoires,cuir,32.9,38.9,permanent
+SKU-0614,"Accessoire cuir ""Signature""",accessoires,cuir,16.9,18.9,printemps-été
+SKU-0615,"Accessoire mixte ""Signature""",accessoires,mixte,67.9,76.9,permanent
+SKU-0616,"Accessoire textile ""Détail""",accessoires,textile,35.9,41.9,automne-hiver
+SKU-0617,"Accessoire cuir ""Finesse""",accessoires,cuir,57.9,61.9,automne-hiver
+SKU-0618,"Accessoire cuir ""Détail""",accessoires,cuir,29.9,35.9,permanent
+SKU-0619,"Accessoire mixte ""Essentiel""",accessoires,mixte,40.9,45.9,automne-hiver
+SKU-0620,"Accessoire textile ""Éclat""",accessoires,textile,35.9,39.9,printemps-été
+SKU-0621,"Accessoire cuir ""Touche""",accessoires,cuir,27.9,31.9,printemps-été
+SKU-0622,"Accessoire cuir ""Éclat""",accessoires,cuir,28.9,32.9,automne-hiver
+SKU-0623,"Accessoire textile ""Signature""",accessoires,textile,66.9,78.9,permanent
+SKU-0624,"Accessoire mixte ""Éclat""",accessoires,mixte,27.9,30.9,permanent
+SKU-0625,"Accessoire métal ""Détail""",accessoires,métal,60.9,68.9,printemps-été
+SKU-0626,"Accessoire cuir ""Touche""",accessoires,cuir,25.9,30.9,printemps-été
+SKU-0627,"Accessoire cuir ""Accent""",accessoires,cuir,63.9,74.9,automne-hiver
+SKU-0628,"Accessoire cuir ""Détail""",accessoires,cuir,45.9,48.9,printemps-été
+SKU-0629,"Accessoire métal ""Détail""",accessoires,métal,56.9,62.9,automne-hiver
+SKU-0630,"Accessoire mixte ""Touche""",accessoires,mixte,70.9,82.9,permanent
+SKU-0631,"Accessoire textile ""Touche""",accessoires,textile,23.9,28.9,printemps-été
+SKU-0632,"Accessoire métal ""Signature""",accessoires,métal,50.9,58.9,printemps-été
+SKU-0633,"Accessoire cuir ""Détail""",accessoires,cuir,57.9,64.9,permanent
+SKU-0634,"Accessoire métal ""Finesse""",accessoires,métal,21.9,25.9,printemps-été
+SKU-0635,"Accessoire mixte ""Accent""",accessoires,mixte,68.9,81.9,printemps-été
+SKU-0636,"Accessoire métal ""Finesse""",accessoires,métal,20.9,24.9,permanent
+SKU-0637,"Accessoire métal ""Accent""",accessoires,métal,40.9,47.9,permanent
+SKU-0638,"Accessoire textile ""Essentiel""",accessoires,textile,50.9,56.9,permanent
+SKU-0639,"Accessoire cuir ""Touche""",accessoires,cuir,39.9,47.9,printemps-été
+SKU-0640,"Accessoire métal ""Détail""",accessoires,métal,62.9,74.9,automne-hiver
+SKU-0641,"Accessoire métal ""Finesse""",accessoires,métal,32.9,36.9,printemps-été
+SKU-0642,"Accessoire textile ""Signature""",accessoires,textile,58.9,66.9,printemps-été
+SKU-0643,"Accessoire textile ""Essentiel""",accessoires,textile,40.9,45.9,printemps-été
+SKU-0644,"Accessoire métal ""Touche""",accessoires,métal,68.9,74.9,automne-hiver
+SKU-0645,"Accessoire métal ""Accent""",accessoires,métal,62.9,67.9,permanent
+SKU-0646,"Accessoire cuir ""Détail""",accessoires,cuir,27.9,32.9,printemps-été
+SKU-0647,"Accessoire textile ""Essentiel""",accessoires,textile,68.9,76.9,printemps-été
+SKU-0648,"Accessoire métal ""Finesse""",accessoires,métal,29.9,35.9,printemps-été
+SKU-0649,"Accessoire mixte ""Accent""",accessoires,mixte,45.9,51.9,printemps-été
+SKU-0650,"Accessoire cuir ""Accent""",accessoires,cuir,59.9,64.9,printemps-été
+SKU-0651,"Accessoire textile ""Essentiel""",accessoires,textile,22.9,26.9,automne-hiver
+SKU-0652,"Accessoire cuir ""Finesse""",accessoires,cuir,47.9,52.9,printemps-été
+SKU-0653,"Accessoire cuir ""Essentiel""",accessoires,cuir,26.9,31.9,printemps-été
+SKU-0654,"Accessoire métal ""Essentiel""",accessoires,métal,22.9,27.9,printemps-été
+SKU-0655,"Accessoire mixte ""Signature""",accessoires,mixte,60.9,67.9,printemps-été
+SKU-0656,"Accessoire mixte ""Accent""",accessoires,mixte,24.9,27.9,printemps-été
+SKU-0657,"Accessoire métal ""Détail""",accessoires,métal,39.9,43.9,permanent
+SKU-0658,"Accessoire textile ""Touche""",accessoires,textile,50.9,57.9,permanent
+SKU-0659,"Accessoire cuir ""Accent""",accessoires,cuir,20.9,23.9,automne-hiver
+SKU-0660,"Accessoire textile ""Signature""",accessoires,textile,50.9,59.9,printemps-été
+SKU-0661,"Accessoire métal ""Accent""",accessoires,métal,41.9,48.9,automne-hiver
+SKU-0662,"Accessoire métal ""Touche""",accessoires,métal,36.9,40.9,automne-hiver
+SKU-0663,"Accessoire textile ""Touche""",accessoires,textile,17.9,21.9,automne-hiver
+SKU-0664,"Accessoire mixte ""Essentiel""",accessoires,mixte,44.9,52.9,printemps-été
+SKU-0665,"Accessoire cuir ""Signature""",accessoires,cuir,29.9,32.9,permanent
+SKU-0666,"Accessoire cuir ""Éclat""",accessoires,cuir,57.9,68.9,permanent
+SKU-0667,"Accessoire mixte ""Éclat""",accessoires,mixte,34.9,40.9,printemps-été
+SKU-0668,"Accessoire textile ""Signature""",accessoires,textile,47.9,55.9,permanent
+SKU-0669,"Accessoire cuir ""Détail""",accessoires,cuir,54.9,60.9,permanent
+SKU-0670,"Accessoire textile ""Touche""",accessoires,textile,46.9,50.9,automne-hiver
+SKU-0671,"Accessoire métal ""Touche""",accessoires,métal,25.9,27.9,printemps-été
+SKU-0672,"Accessoire textile ""Signature""",accessoires,textile,16.9,19.9,automne-hiver
+SKU-0673,"Accessoire textile ""Touche""",accessoires,textile,59.9,66.9,printemps-été
+SKU-0674,"Accessoire métal ""Éclat""",accessoires,métal,18.9,20.9,permanent
+SKU-0675,"Accessoire cuir ""Signature""",accessoires,cuir,61.9,72.9,printemps-été
+SKU-0676,"Accessoire mixte ""Détail""",accessoires,mixte,47.9,52.9,automne-hiver
+SKU-0677,"Accessoire textile ""Signature""",accessoires,textile,55.9,62.9,permanent
+SKU-0678,"Accessoire métal ""Accent""",accessoires,métal,24.9,29.9,permanent
+SKU-0679,"Accessoire métal ""Touche""",accessoires,métal,27.9,31.9,printemps-été
+SKU-0680,"Accessoire métal ""Accent""",accessoires,métal,55.9,61.9,printemps-été
+SKU-0681,"Chaussure en cuir ""Sentier""",chaussures,cuir,193.9,228.9,automne-hiver
+SKU-0682,"Chaussure en cuir ""Allée""",chaussures,cuir,85.9,94.9,permanent
+SKU-0683,"Chaussure en cuir ""Boulevard""",chaussures,cuir,191.9,205.9,permanent
+SKU-0684,"Chaussure en daim ""Promenade""",chaussures,daim,108.9,119.9,permanent
+SKU-0685,"Chaussure en toile ""Promenade""",chaussures,toile,122.9,133.9,printemps-été
+SKU-0686,"Chaussure en cuir ""Sentier""",chaussures,cuir,109.9,127.9,permanent
+SKU-0687,"Chaussure en cuir ""Promenade""",chaussures,cuir,114.9,132.9,printemps-été
+SKU-0688,"Chaussure en synthétique ""Passage""",chaussures,synthétique,183.9,201.9,automne-hiver
+SKU-0689,"Chaussure en synthétique ""Promenade""",chaussures,synthétique,170.9,192.9,permanent
+SKU-0690,"Chaussure en daim ""Boulevard""",chaussures,daim,123.9,143.9,printemps-été
+SKU-0691,"Chaussure en cuir ""Avenue""",chaussures,cuir,105.9,124.9,printemps-été
+SKU-0692,"Chaussure en daim ""Avenue""",chaussures,daim,184.9,198.9,printemps-été
+SKU-0693,"Chaussure en cuir ""Allée""",chaussures,cuir,107.9,127.9,automne-hiver
+SKU-0694,"Chaussure en cuir ""Sentier""",chaussures,cuir,120.9,137.9,permanent
+SKU-0695,"Chaussure en daim ""Passage""",chaussures,daim,67.9,74.9,printemps-été
+SKU-0696,"Chaussure en toile ""Passage""",chaussures,toile,152.9,166.9,printemps-été
+SKU-0697,"Chaussure en synthétique ""Promenade""",chaussures,synthétique,140.9,163.9,printemps-été
+SKU-0698,"Chaussure en toile ""Promenade""",chaussures,toile,60.9,65.9,permanent
+SKU-0699,"Chaussure en synthétique ""Sentier""",chaussures,synthétique,88.9,94.9,printemps-été
+SKU-0700,"Chaussure en toile ""Sentier""",chaussures,toile,197.9,220.9,printemps-été
+SKU-0701,"Chaussure en synthétique ""Avenue""",chaussures,synthétique,126.9,148.9,automne-hiver
+SKU-0702,"Chaussure en synthétique ""Promenade""",chaussures,synthétique,86.9,101.9,automne-hiver
+SKU-0703,"Chaussure en synthétique ""Boulevard""",chaussures,synthétique,66.9,74.9,automne-hiver
+SKU-0704,"Chaussure en toile ""Boulevard""",chaussures,toile,139.9,150.9,permanent
+SKU-0705,"Chaussure en cuir ""Sentier""",chaussures,cuir,72.9,80.9,permanent
+SKU-0706,"Chaussure en daim ""Passage""",chaussures,daim,137.9,160.9,permanent
+SKU-0707,"Chaussure en synthétique ""Passage""",chaussures,synthétique,140.9,152.9,automne-hiver
+SKU-0708,"Chaussure en synthétique ""Promenade""",chaussures,synthétique,186.9,214.9,permanent
+SKU-0709,"Chaussure en daim ""Allée""",chaussures,daim,77.9,89.9,printemps-été
+SKU-0710,"Chaussure en daim ""Boulevard""",chaussures,daim,173.9,185.9,automne-hiver
+SKU-0711,"Chaussure en synthétique ""Promenade""",chaussures,synthétique,88.9,103.9,printemps-été
+SKU-0712,"Chaussure en toile ""Allée""",chaussures,toile,105.9,121.9,printemps-été
+SKU-0713,"Chaussure en synthétique ""Promenade""",chaussures,synthétique,138.9,156.9,automne-hiver
+SKU-0714,"Chaussure en synthétique ""Allée""",chaussures,synthétique,188.9,199.9,permanent
+SKU-0715,"Chaussure en synthétique ""Allée""",chaussures,synthétique,76.9,82.9,permanent
+SKU-0716,"Chaussure en cuir ""Allée""",chaussures,cuir,189.9,213.9,printemps-été
+SKU-0717,"Chaussure en toile ""Avenue""",chaussures,toile,183.9,199.9,permanent
+SKU-0718,"Chaussure en synthétique ""Passage""",chaussures,synthétique,65.9,72.9,printemps-été
+SKU-0719,"Chaussure en synthétique ""Allée""",chaussures,synthétique,65.9,77.9,automne-hiver
+SKU-0720,"Chaussure en daim ""Sentier""",chaussures,daim,67.9,75.9,automne-hiver
+SKU-0721,"Chaussure en cuir ""Avenue""",chaussures,cuir,107.9,124.9,automne-hiver
+SKU-0722,"Chaussure en synthétique ""Avenue""",chaussures,synthétique,180.9,206.9,printemps-été
+SKU-0723,"Chaussure en toile ""Boulevard""",chaussures,toile,196.9,218.9,automne-hiver
+SKU-0724,"Chaussure en synthétique ""Avenue""",chaussures,synthétique,145.9,155.9,automne-hiver
+SKU-0725,"Chaussure en synthétique ""Boulevard""",chaussures,synthétique,164.9,189.9,automne-hiver
+SKU-0726,"Chaussure en daim ""Promenade""",chaussures,daim,69.9,80.9,automne-hiver
+SKU-0727,"Chaussure en cuir ""Boulevard""",chaussures,cuir,84.9,99.9,printemps-été
+SKU-0728,"Chaussure en daim ""Promenade""",chaussures,daim,65.9,70.9,automne-hiver
+SKU-0729,"Chaussure en daim ""Sentier""",chaussures,daim,98.9,114.9,permanent
+SKU-0730,"Chaussure en cuir ""Passage""",chaussures,cuir,155.9,169.9,automne-hiver
+SKU-0731,"Chaussure en synthétique ""Allée""",chaussures,synthétique,85.9,100.9,permanent
+SKU-0732,"Chaussure en toile ""Allée""",chaussures,toile,108.9,126.9,automne-hiver
+SKU-0733,"Chaussure en cuir ""Sentier""",chaussures,cuir,100.9,111.9,printemps-été
+SKU-0734,"Chaussure en daim ""Allée""",chaussures,daim,180.9,205.9,permanent
+SKU-0735,"Chaussure en toile ""Boulevard""",chaussures,toile,151.9,170.9,permanent
+SKU-0736,"Chaussure en synthétique ""Promenade""",chaussures,synthétique,188.9,214.9,permanent
+SKU-0737,"Chaussure en daim ""Promenade""",chaussures,daim,95.9,111.9,automne-hiver
+SKU-0738,"Chaussure en toile ""Sentier""",chaussures,toile,119.9,132.9,automne-hiver
+SKU-0739,"Chaussure en toile ""Passage""",chaussures,toile,90.9,99.9,permanent
+SKU-0740,"Chaussure en synthétique ""Allée""",chaussures,synthétique,142.9,150.9,permanent
+SKU-0741,"Chaussure en toile ""Avenue""",chaussures,toile,102.9,109.9,printemps-été
+SKU-0742,"Chaussure en toile ""Avenue""",chaussures,toile,150.9,175.9,automne-hiver
+SKU-0743,"Chaussure en toile ""Sentier""",chaussures,toile,86.9,97.9,printemps-été
+SKU-0744,"Chaussure en synthétique ""Promenade""",chaussures,synthétique,152.9,174.9,permanent
+SKU-0745,"Chaussure en synthétique ""Promenade""",chaussures,synthétique,200.9,218.9,automne-hiver
+SKU-0746,"Chaussure en synthétique ""Passage""",chaussures,synthétique,163.9,185.9,permanent
+SKU-0747,"Chaussure en toile ""Boulevard""",chaussures,toile,162.9,176.9,permanent
+SKU-0748,"Chaussure en synthétique ""Sentier""",chaussures,synthétique,187.9,214.9,permanent
+SKU-0749,"Chaussure en daim ""Avenue""",chaussures,daim,178.9,208.9,printemps-été
+SKU-0750,"Chaussure en cuir ""Avenue""",chaussures,cuir,126.9,145.9,permanent
+SKU-0751,"Chaussure en daim ""Allée""",chaussures,daim,192.9,225.9,permanent
+SKU-0752,"Chaussure en daim ""Promenade""",chaussures,daim,110.9,127.9,automne-hiver
+SKU-0753,"Chaussure en toile ""Passage""",chaussures,toile,112.9,127.9,automne-hiver
+SKU-0754,"Chaussure en synthétique ""Promenade""",chaussures,synthétique,67.9,77.9,permanent
+SKU-0755,"Chaussure en cuir ""Allée""",chaussures,cuir,126.9,136.9,printemps-été
+SKU-0756,"Chaussure en synthétique ""Sentier""",chaussures,synthétique,134.9,149.9,printemps-été
+SKU-0757,"Chaussure en daim ""Boulevard""",chaussures,daim,108.9,128.9,automne-hiver
+SKU-0758,"Chaussure en toile ""Boulevard""",chaussures,toile,181.9,195.9,printemps-été
+SKU-0759,"Chaussure en toile ""Passage""",chaussures,toile,148.9,160.9,permanent
+SKU-0760,"Chaussure en cuir ""Promenade""",chaussures,cuir,123.9,133.9,printemps-été
+SKU-0761,"Manteaux en coton ""Breton""",manteaux,coton,213.9,246.9,printemps-été
+SKU-0762,"Manteaux en cuir ""Tempête""",manteaux,cuir,238.9,263.9,automne-hiver
+SKU-0763,"Manteaux en laine ""Sibérie""",manteaux,laine,136.9,147.9,automne-hiver
+SKU-0764,"Manteaux en synthétique ""Hiver""",manteaux,synthétique,259.9,291.9,printemps-été
+SKU-0765,"Manteaux en coton ""Hiver""",manteaux,coton,168.9,197.9,automne-hiver
+SKU-0766,"Manteaux en laine ""Tempête""",manteaux,laine,195.9,221.9,printemps-été
+SKU-0767,"Manteaux en laine ""Hiver""",manteaux,laine,181.9,198.9,permanent
+SKU-0768,"Manteaux en synthétique ""Breton""",manteaux,synthétique,204.9,233.9,printemps-été
+SKU-0769,"Manteaux en cuir ""Nordique""",manteaux,cuir,191.9,206.9,automne-hiver
+SKU-0770,"Manteaux en coton ""Hiver""",manteaux,coton,168.9,199.9,printemps-été
+SKU-0771,"Manteaux en coton ""Hiver""",manteaux,coton,151.9,174.9,printemps-été
+SKU-0772,"Manteaux en synthétique ""Sibérie""",manteaux,synthétique,261.9,296.9,permanent
+SKU-0773,"Manteaux en laine ""Hiver""",manteaux,laine,241.9,255.9,permanent
+SKU-0774,"Manteaux en cuir ""Hiver""",manteaux,cuir,205.9,220.9,automne-hiver
+SKU-0775,"Manteaux en coton ""Sibérie""",manteaux,coton,165.9,189.9,printemps-été
+SKU-0776,"Manteaux en cuir ""Nordique""",manteaux,cuir,242.9,276.9,automne-hiver
+SKU-0777,"Manteaux en coton ""Breton""",manteaux,coton,201.9,236.9,permanent
+SKU-0778,"Manteaux en laine ""Breton""",manteaux,laine,178.9,206.9,automne-hiver
+SKU-0779,"Manteaux en coton ""Tempête""",manteaux,coton,262.9,304.9,printemps-été
+SKU-0780,"Manteaux en cuir ""Nordique""",manteaux,cuir,180.9,191.9,automne-hiver
+SKU-0781,"Manteaux en cuir ""Tempête""",manteaux,cuir,186.9,196.9,permanent
+SKU-0782,"Manteaux en laine ""Hiver""",manteaux,laine,272.9,310.9,printemps-été
+SKU-0783,"Manteaux en laine ""Hiver""",manteaux,laine,253.9,270.9,automne-hiver
+SKU-0784,"Manteaux en cuir ""Tempête""",manteaux,cuir,298.9,325.9,automne-hiver
+SKU-0785,"Manteaux en laine ""Hiver""",manteaux,laine,268.9,313.9,automne-hiver
+SKU-0786,"Manteaux en synthétique ""Nordique""",manteaux,synthétique,202.9,216.9,printemps-été
+SKU-0787,"Manteaux en coton ""Hiver""",manteaux,coton,243.9,262.9,automne-hiver
+SKU-0788,"Manteaux en synthétique ""Sibérie""",manteaux,synthétique,279.9,297.9,automne-hiver
+SKU-0789,"Manteaux en laine ""Tempête""",manteaux,laine,198.9,234.9,automne-hiver
+SKU-0790,"Manteaux en cuir ""Sibérie""",manteaux,cuir,266.9,303.9,printemps-été
+SKU-0791,"Manteaux en coton ""Hiver""",manteaux,coton,248.9,263.9,printemps-été
+SKU-0792,"Manteaux en cuir ""Hiver""",manteaux,cuir,285.9,318.9,permanent
+SKU-0793,"Manteaux en coton ""Sibérie""",manteaux,coton,234.9,270.9,permanent
+SKU-0794,"Manteaux en coton ""Hiver""",manteaux,coton,212.9,237.9,automne-hiver
+SKU-0795,"Manteaux en laine ""Sibérie""",manteaux,laine,141.9,161.9,printemps-été
+SKU-0796,"Manteaux en coton ""Breton""",manteaux,coton,296.9,338.9,automne-hiver
+SKU-0797,"Manteaux en laine ""Breton""",manteaux,laine,203.9,233.9,automne-hiver
+SKU-0798,"Manteaux en cuir ""Nordique""",manteaux,cuir,155.9,180.9,permanent
+SKU-0799,"Manteaux en laine ""Hiver""",manteaux,laine,239.9,257.9,automne-hiver
+SKU-0800,"Manteaux en coton ""Sibérie""",manteaux,coton,143.9,160.9,printemps-été
