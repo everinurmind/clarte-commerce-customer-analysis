@@ -22,7 +22,7 @@ def calculate_rfm(transactions, snapshot_date):
     pd.DataFrame with customer_id, recency, frequency, monetary
     """
     rfm = transactions.groupby('customer_id').agg(
-        recency=('transaction_date', 'min'),  # days since first purchase
+        recency=('transaction_date', 'max'),  # days since last purchase
         frequency=('transaction_id', 'nunique'),
         monetary=('total_amount', 'sum')
     ).reset_index()
