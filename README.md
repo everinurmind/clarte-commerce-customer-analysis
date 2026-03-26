@@ -57,7 +57,6 @@ In Q3 2023, Clarté underwent a major rebranding, repositioning toward "affordab
 
 - **Python** (pandas, NumPy, seaborn, matplotlib)
 - **SQL** (data quality, RFM, cohort queries)
-- **Tableau** (interactive dashboards)
 
 ## Author
 
