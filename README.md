@@ -17,6 +17,16 @@ In Q3 2023, Clarté underwent a major rebranding, repositioning toward "affordab
 - **Silent churn**: 68.6% of churned customers had no email engagement
 - **Post-rebrand cohorts retain 6-7pp worse** at every milestone (M1 through M12)
 
+## RFM Segment Summary
+
+| Segment | % of Customers | Avg Revenue | Action |
+|---------|---------------|-------------|--------|
+| Champions | 12% (-23% post-rebrand) | €380 | Retain — loyalty perks |
+| Loyal | 18% | €210 | Upsell — premium tiers |
+| At Risk | 31% (+31% post-rebrand) | €145 | Win-back campaign |
+| Lost | 24% | €80 | Re-engagement or accept churn |
+| New | 15% | €95 | Onboarding flow |
+
 ## Repository Structure
 ```
 ├── data/
@@ -60,4 +70,5 @@ In Q3 2023, Clarté underwent a major rebranding, repositioning toward "affordab
 
 ## Author
 
-Nurbol Sultanov — Data Analyst
+Nurbol Sultanov — Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/nurbolsultanov/) · [GitHub](https://github.com/nurbolsultanov)
